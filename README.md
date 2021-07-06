@@ -1,2 +1,2 @@
 # interview-prep
-Coding interview solutions
+Coding interview solutions using JavaScript
